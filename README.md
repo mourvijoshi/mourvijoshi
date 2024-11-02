@@ -17,7 +17,7 @@
 
 <h2 align="center">⚡ Fun Fact:</h2>
 <p align="center">
-  <strong>I can explain complex algorithms with a <em>Friends</em> analogy – because who doesn’t learn better with a little <em>Phoebe Buffay</em> logic? 😄</strong>
+  <strong>⚡ Fun fact: I once trained a model to recognize my coffee mug before I had my morning coffee. Priorities, right? ☕</strong>
 </p>
 
 
