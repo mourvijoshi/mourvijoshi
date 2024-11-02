@@ -1,15 +1,25 @@
-**👋 Hi, I’m [@mourvijoshi](https://github.com/mourvijoshi)**  
-- **👀 I’m interested in Data Science and Machine Learning**  
-- **🌱 Currently learning:** AIML  
-- **📫 How to reach me:**  
+<h1 align="center">👋 Hi, I’m <a href="https://github.com/mourvijoshi" target="_blank">Mourvi Joshi</a></h1>
+
+<p align="center">
+  <strong>👀 I’m interested in Data Science and Machine Learning</strong><br>
+  <strong>🌱 Currently learning:</strong> AIML
+</p>
+
+<h2 align="center">📫 How to reach me:</h2>
+<p align="center">
   <a href="https://www.linkedin.com/in/mourvi-joshi-4ab09a209/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
   <a href="https://x.com/MourviJ" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="35"/>
-  </a>  
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="40"/>
+  </a>
+</p>
 
-- **⚡ Fun fact:** I can explain complex algorithms with a *Friends* analogy – because who doesn’t learn better with a little **Phoebe Buffay** logic? 😄
+<h2 align="center">⚡ Fun Fact:</h2>
+<p align="center">
+  <strong>I can explain complex algorithms with a <em>Friends</em> analogy – because who doesn’t learn better with a little <em>Phoebe Buffay</em> logic? 😄</strong>
+</p>
+
 
 
 
