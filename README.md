@@ -1,9 +1,11 @@
-<h1 align="center" style="font-family: 'Arial';">👋 Hi, I’m <a href="https://github.com/mourvijoshi" target="_blank" style="text-decoration: none; color: #0366d6;">Mourvi Joshi</a></h1>
+<h1 align="center">👋 Hi, I’m <a href="https://github.com/mourvijoshi" target="_blank" style="text-decoration: none; color: #0366d6;">Mourvi Joshi</a></h1>
 
-<p align="center" style="font-family: 'Arial';">
-  <strong style="font-size: 1.2em;">👀 I’m interested in Data Science and Machine Learning</strong><br>
-  <strong style="font-size: 1.1em;">🌱 Currently learning:</strong> <em>AIML</em>
+<p align="center">
+  <strong style="font-size: 1.5em; color: #2D3748;">👀 Data Science Enthusiast | Machine Learning Explorer</strong><br>
+  <span style="font-size: 1.1em;">🌱 Currently diving into:</span> <em style="font-size: 1.1em; color: #9B2C2C;">Artificial Intelligence & Machine Learning</em>
 </p>
+
+---
 
 <h2 align="center" style="font-family: 'Arial';">📫 Connect with me:</h2>
 <p align="center">
@@ -15,12 +17,16 @@
   </a>
 </p>
 
-<h2 align="center" style="font-family: 'Arial';">⚡ Fun Fact:</h2>
-<p align="center" style="font-family: 'Arial';">
-  <strong style="font-size: 1.1em;">⚡ Fun fact:</strong> I once trained a model to recognize my coffee mug before I had my morning coffee. <em>Priorities, right? ☕</em>
+---
+
+<h2 align="center">⚡ Fun Fact</h2>
+<p align="center" style="font-size: 1.1em;">
+  <em>⚡ I once trained a model to recognize my coffee mug before I even had my morning coffee! ☕ <br>Data-driven priorities, am I right?</em>
 </p>
 
-<h2 align="center" style="font-family: 'Arial';">💻 Languages & Technologies:</h2>
+---
+
+<h2 align="center">💻 Languages & Technologies I Speak (and Occasionally Debate)</h2>
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40"/>
@@ -49,7 +55,7 @@
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" height="40"/>
   </a>
-  <a href="https://www.keras.io/" target="_blank">
+  <a href="https://keras.io/" target="_blank">
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" height="40"/>
   </a>
   <a href="https://openai.com/" target="_blank">
@@ -57,15 +63,6 @@
   </a>
   <a href="https://gradio.app/" target="_blank">
     <img src="https://img.shields.io/badge/Gradio-2800ff?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" height="40"/>
-  </a>
-  <a href="https://whisper.openai.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="40"/>
   </a>
   <a href="https://numpy.org/" target="_blank">
     <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" height="40"/>
@@ -81,7 +78,6 @@
   </a>
 </p>
 
-<!---
-mourvijoshi/mourvijoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<h3 align="center">🚀 Ready to tackle data, coffee-fueled creativity, and a dash of Python? Let's connect and build something awesome! 🌟</h3>
