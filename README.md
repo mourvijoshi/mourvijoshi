@@ -21,12 +21,12 @@
 
 <h2 align="center">⚡ Fun Fact</h2>
 <p align="center" style="font-size: 1.1em;">
-  <em>⚡ I once trained a model to recognize my coffee mug before I even had my morning coffee! ☕ <br>Data-driven priorities, am I right?</em>
+  <em>⚡ I once trained a model to recognize my coffee mug before I even had my morning coffee! ☕ <br> priorities, right?</em>
 </p>
 
 ---
 
-<h2 align="center">💻 Languages & Technologies I Speak (and Occasionally Debate)</h2>
+<h2 align="center">💻 Languages & Technologies: </h2>
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40"/>
