@@ -58,9 +58,6 @@
   <a href="https://keras.io/" target="_blank">
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" height="40"/>
   </a>
-  <a href="https://openai.com/" target="_blank">
-    <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" height="40"/>
-  </a>
   <a href="https://gradio.app/" target="_blank">
     <img src="https://img.shields.io/badge/Gradio-2800ff?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" height="40"/>
   </a>
@@ -72,9 +69,6 @@
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" height="40"/>
   </a>
 </p>
 
